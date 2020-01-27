@@ -11,5 +11,11 @@
 
     <artifactId>service</artifactId>
 
-
+    <dependencies>
+        <dependency>
+            <groupId>me.sahar</groupId>
+            <artifactId>repository</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 </project>
